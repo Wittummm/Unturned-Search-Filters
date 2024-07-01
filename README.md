@@ -1,2 +1,2 @@
 # Unturned-Search-Filters
-favorate search filters for unturned
+favorite search filters for unturned
