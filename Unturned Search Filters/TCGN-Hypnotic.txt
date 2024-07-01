@@ -1,0 +1,8 @@
+hypnotic
+hyp
+hypn
+tcrp
+tcgn
+
+fv:BundledModsHypnotic
+fv:BundledModsTCRP
